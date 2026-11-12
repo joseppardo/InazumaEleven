@@ -1,0 +1,9 @@
+INAZUMA ELEVEN — ACTIVITAT 5
+
+S'han substituït les imatges genèriques per les imatges que has facilitat a img.zip.
+Hi ha cinc imatges diferents i una sisena vista retallada per mantenir les sis miniatures de l'exercici.
+
+Abans d'entregar: completa el nom al PDF, valida els tres HTML i el CSS, afegeix les captures de validació i de la web publicada. Comprova que tens permís per publicar les imatges i afegeix les fonts/autoria si les coneixes.
+La web és un projecte fan-made no oficial i no està afiliada ni patrocinada pels titulars de la franquícia.
+
+S'hi ha afegit img/logo-inazuma-fandom.png, un logotip per a la pàgina fan creat a partir del logo que has proporcionat, amb el text FANDOM. Es mostra a la capçalera de les tres pàgines.
